@@ -1,0 +1,16 @@
+{
+  "name": "crud-nodejs-mysql",
+  "version": "1.0.0",
+  "description": "CRUD simples em Node.js com MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "body-parser": "^1.19.0"
+  }
+}
